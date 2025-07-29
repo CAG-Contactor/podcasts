@@ -13,7 +13,7 @@
     <item>
       <title>Test episode</title>
       <description>Testing</description>
-      <enclosure url="https://github.com/CAG-Contactor/podcasts/blob/main/episodes/test.mp3" length="267404" type="audio/mpeg"/>
+      <enclosure url="https://raw.githubusercontent.com/CAG-Contactor/podcasts/main/episodes/test.mp3" length="267404" type="audio/mpeg"/>
       <guid>testEpisode</guid>
       <pubDate>Mon, 29 Jul 2025 16:30:00 GMT</pubDate>
     </item>
