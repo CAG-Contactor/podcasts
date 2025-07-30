@@ -3,17 +3,22 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Jag är en full stackare</title>
-    <link>https://github.com/CAG-Contactor/podcasts</link>
+    <link>https://cag-contactor.github.io/podcasts/developer</link>
     <description>News podcast for developer</description>
     <language>en-us</language>
     <itunes:author>CAG Contactor</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"/>
-
+    <itunes:image href="https://cag-contactor.github.io/podcasts/developer/cover.png"/>
+    <image>
+      <url>https://cag-contactor.github.io/podcasts/developer/cover.png</url>
+      <title>Jag är en full stackare</title>
+      <link>https://cag-contactor.github.io/podcasts/developer/</link>
+    </image>
     <item>
       <title>Test episode</title>
       <description>Testing</description>
-      <enclosure url="https://raw.githubusercontent.com/CAG-Contactor/podcasts/main/episodes/test.mp3" length="267404" type="audio/mpeg"/>
+      <enclosure url="https://cag-contactor.github.io/podcasts/developer/episodes/test.mp3" length="267404" type="audio/mpeg"/>
       <guid>testEpisode</guid>
       <pubDate>Mon, 29 Jul 2025 16:30:00 GMT</pubDate>
     </item>
