@@ -9,9 +9,9 @@
     <itunes:author>CAG Contactor</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"/>
-    <itunes:image href="https://cag-contactor.github.io/podcasts/developer/cover.png"/>
+    <itunes:image href="https://cag-contactor.github.io/podcasts/developer/cover.jpg"/>
     <image>
-      <url>https://cag-contactor.github.io/podcasts/developer/cover.png</url>
+      <url>https://cag-contactor.github.io/podcasts/developer/cover.jpg</url>
       <title>Jag är en full stackare</title>
       <link>https://cag-contactor.github.io/podcasts/developer/</link>
     </image>
