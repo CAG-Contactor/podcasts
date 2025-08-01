@@ -1,4 +1,4 @@
-# Podcats
+# Podcasts
 Detta publika projekt används för att hosta publiserade podcasts.
 
 ## developer - podd
